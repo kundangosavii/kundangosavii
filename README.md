@@ -12,7 +12,7 @@
  <a href="https://codeforces.com/profile/Kundan_N_gosavi">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Kundan_N_gosavi&query=$.result[0].maxRating&label=Max%20Rating&style=flat&color=3a3a3a&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://leetcode.com/u/F3J5njRou1/">
   <img src="https://img.shields.io/badge/Leetcode-Profile-orange?style=flate&logo=leetcode&logoColor=white" />
 </a>
 </p>
