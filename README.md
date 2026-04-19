@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"><a href="https://github.com/kundangosavii"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I’m+Kundan+N.+Gosavi" /></a></h1>
 
-<!--
-**kundangosavii/kundangosavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-Kundan%20Gosavi-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+   </a>
+  <a href="mailto:gosavikundan4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gosavikundan4%40gmail.com-orange?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+ <a href="https://codeforces.com/profile/Kundan_N_gosavi">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=Kundan_N_gosavi&query=$.result[0].maxRating&label=Max%20Rating&style=flat&color=3a3a3a&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/Leetcode-Profile-orange?style=flate&logo=leetcode&logoColor=white" />
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
