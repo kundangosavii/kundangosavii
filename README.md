@@ -17,3 +17,8 @@
 </a>
 </p>
 
+<br>
+<p align="center" margin-top="10px">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundangosavii&show_icons=true&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kundangosavii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
