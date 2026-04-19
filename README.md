@@ -18,9 +18,10 @@
 </p>
 
 <br>
-<p align="center" margin-top="10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundangosavii&show_icons=true&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kundangosavii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundangosavii&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=kundangosavii&theme=dark" width="45%" />
 </p>
 
-[![Kundan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kundangosavii&theme=github-compact&hide_border=true)](https://github.com/kundangosavii)
+
+[![Kundan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kundangosavii&theme=github-compact&hide_border=true)](https://github.com/kundangosavii)
