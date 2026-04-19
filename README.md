@@ -19,8 +19,8 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundangosavii&show_icons=true&theme=tokyonight" width="35%" />
-  <img src="https://streak-stats.demolab.com?user=kundangosavii&theme=dark" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kundangosavii&show_icons=true&theme=tokyonight" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=kundangosavii&theme=dark" width="40%" />
 </p>
 
 
