@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/kundangosavii"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I’m+Kundan+N.+Gosavi" /></a></h1>
 
 <p align="center">
-   <a href="[kundangosavii.github.io](https://kundangosavii.github.io/)">
+   <a href="https://kundangosavii.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Kundan%20Gosavi-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
    </a>
   <a href="mailto:gosavikundan4@gmail.com">
